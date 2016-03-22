@@ -6,11 +6,14 @@
   display: none;
 }
 
-.clickable {
+.clickable{
   cursor: pointer;
   color: #0088cc;
+  text-decoration: underline;
 }
 
 .hover:hover{
+  cursor: pointer;
+  color: #0088cc;
   text-decoration: underline;
 }
